@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IpQ1oxcqYG+gkzvQ187UKFbHDBUmt1Up0t0cq/QnwXxJ6NXlESsdeS9NWlOHTiTqZIDzX+DhC6WCN6rembow3A==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\ConsoleApp13\\ConsoleApp13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Элим\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
